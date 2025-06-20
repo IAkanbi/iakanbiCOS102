@@ -13,7 +13,6 @@ def welcomeMessage(username):
     label_2.pack()
 
     # Run the Tkinter event loop
-    root.mainloop()
 
 def submit():
     username = username_entry.get()
